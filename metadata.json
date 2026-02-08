@@ -1,0 +1,7 @@
+{
+  "name": "CulinaryAI - Smart Fridge Assistant",
+  "description": "A high-end kitchen companion that scans your fridge to suggest healthy recipes, provides hands-free step-by-step cooking instructions, and manages your shopping list.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
